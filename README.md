@@ -1,19 +1,48 @@
-# quiz_app
+# Quiz App
 
-A new Flutter project.
+This is a simple quiz app built using Flutter, where users can answer a series of questions and see their results at the end.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Start Quiz: Begin answering questions after starting the quiz.
+- Answer Questions: Select from multiple-choice answers for each question.
+- Results Screen: View how many questions were answered correctly and review answers.
+- Restart Quiz: Shuffle question order and answer choices for a new quiz attempt.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/13b8e5d7-8ff8-4930-80ff-2238c314a7ee.png" alt="Screenshot 1" style="width: 30%; margin-right: 10px;">
+  <img src="https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/422c14a4-a87d-4d76-8a43-5baf316485e7.png" alt="Screenshot 2" style="width: 30%; margin-right: 10px;">
+  <img src="https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/a0f394e2-4151-45a2-84f8-d15f9ac226a7.png" alt="Screenshot 3" style="width: 30%;">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# quiz_app
+
+## Installation
+
+1. **Clone the repository**
+git clone https://github.com/AbhishekPal634/quiz_app.git
+
+2. **Navigate to project directory**
+cd quiz_app
+
+3. **Install dependencies**
+flutter pub get
+
+4. **Run the app**
+flutter run
+
+## Dependencies
+
+- `flutter`: Flutter SDK for building the UI.
+- `google_fonts`: For using Google Fonts in text styles.
+- Other Flutter packages as per `pubspec.yaml`.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or issue in the GitHub repository.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
