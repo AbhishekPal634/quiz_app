@@ -11,12 +11,9 @@ This is a simple quiz app built using Flutter, where users can answer a series o
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/13b8e5d7-8ff8-4930-80ff-2238c314a7ee.png" alt="Screenshot 1" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/422c14a4-a87d-4d76-8a43-5baf316485e7.png" alt="Screenshot 2" style="width: 30%; margin-right: 10px;">
-  <img src="https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/a0f394e2-4151-45a2-84f8-d15f9ac226a7.png" alt="Screenshot 3" style="width: 30%;">
-</div>
-
+![image](https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/13b8e5d7-8ff8-4930-80ff-2238c314a7ee.png)
+![image](https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/422c14a4-a87d-4d76-8a43-5baf316485e7.png)
+![image](https://github.com/AbhishekPal634/quiz_app/raw/main/assets/121433136/a0f394e2-4151-45a2-84f8-d15f9ac226a7.png)
 
 ## Installation
 
