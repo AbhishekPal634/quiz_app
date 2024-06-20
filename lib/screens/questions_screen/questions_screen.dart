@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:quiz_app/answer_button.dart';
+import 'package:quiz_app/screens/questions_screen/answer_button.dart';
 import 'package:quiz_app/data/questions.dart';
 
 class QuestionsScreen extends StatefulWidget {
@@ -40,10 +40,10 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
               currentQuestion.text,
               style: GoogleFonts.poppins(
                 color: const Color.fromARGB(255, 249, 248, 235),
-                fontSize: 24,
+                fontSize: 20,
                 fontWeight: FontWeight.bold,
               ),
-              // textAlign: TextAlign.center,
+              textAlign: TextAlign.center,  
             ),
             const SizedBox(
               height: 40,
